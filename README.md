@@ -20,13 +20,12 @@
 
 - # 주요 페이지 소개
 
-  1. Login 페이지: 로그인과 회원가입 페이지 입니다.![Alt text](image-4.png)
-  2. Main 페이지: 상품이 나열되는 페이지 입니다. ![Alt text](image-1.png)
-  3. MyPage 페이지: 나의 정보와 글 목록이 뜹니다. ![Alt text](image-2.png)
-  4. Detail 페이지: 카드를 누르면 상품 세부 내용을 확인할 수 있습니다. ![Alt text](image-3.png)
-  5. Write 페이지: 에디터가 글을 작성할 수 있는 페이지입니다. ![Alt text](image-7.png)
-  6. Detail 페이지: 내가 올린 상품에 대해 삭제를 할 수 있습니다. ![Alt text](image-5.png)
-  7. Edit 페이지: 올린 상품에 대해 내용을 수정하거나 이미지를 변경 할 수 있습니다. ![Alt text](image-6.png)
+  1. Login 페이지: 로그인과 회원가입 페이지 입니다.![Alt text](https://github.com/Kimjinwoo1/HealthMarket/assets/104746237/df559a17-0ad3-49fb-8da9-f477a5d5bc8f)
+  2. Main 페이지: 상품이 나열되는 페이지 입니다. ![Alt text](https://github.com/Kimjinwoo1/HealthMarket/assets/104746237/14e1e37b-6b1c-4f90-98bb-3f1e8b666411)
+  3. MyPage 페이지: 나의 정보와 글 목록이 뜹니다. ![Alt text](https://github.com/Kimjinwoo1/HealthMarket/assets/104746237/ea9c34e7-b96e-407a-9570-ed450f8508df)
+  4. Write 페이지: 에디터가 글을 작성할 수 있는 페이지입니다. ![Alt text](https://github.com/Kimjinwoo1/HealthMarket/assets/104746237/f9953ea8-8f62-4afb-ac24-ff3265faefc4)
+  5. Detail 페이지: 카드를 누르면 상품 세부 내용을 확인할 수 있습니다. ![Alt text](https://github.com/Kimjinwoo1/HealthMarket/assets/104746237/8cd2d3df-5b85-420a-82e0-a015d549b846)
+  6. Edit 페이지: 올린 상품에 대해 내용을 수정하거나 이미지를 변경 할 수 있습니다. ![Alt text](https://github.com/Kimjinwoo1/HealthMarket/assets/104746237/3fdf4532-98b1-4768-bb0d-2ee5b1c6a6ca)
 
 ## 3. 기술 스택
 
