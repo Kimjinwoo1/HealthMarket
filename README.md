@@ -17,6 +17,7 @@
   - Edit Page
   - Delete Page
   - 이미지 업로드
+  - 글쓰기 모
 
 - # 주요 페이지 소개
 
